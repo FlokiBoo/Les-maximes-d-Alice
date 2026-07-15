@@ -308,4 +308,16 @@ export const questions = [
 
   { id: 230, cat: 'erotique', level: 'profonde',
     text: "Qu'est-ce que le plaisir represente pour toi au fond — une connexion, une liberte, un oubli de soi ?" },
+
+  { id: 231, cat: 'erotique', level: 'medium',
+    text: "C'est quoi ton fantasme prefere en trois mots ?" },
+
+  { id: 232, cat: 'erotique', level: 'douce',
+    text: "C'etait quoi ta premiere pensee coquine a mon sujet ?" },
+
+  { id: 233, cat: 'erotique', level: 'profonde',
+    text: "Si on avait une nuit sans aucune limite, tu ferais quoi ?" },
+
+  { id: 234, cat: 'erotique', level: 'douce',
+    text: "Qu'est-ce que tu as toujours voulu porter rien que pour moi ?" },
 ]
