@@ -72,13 +72,13 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Les maximes d'Alice</title>
+        <title>Les maximes de Maxime</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
       <div style={s.page}>
         <header style={s.header}>
-          <h1 style={s.logo}>Les maximes d'Alice</h1>
+          <h1 style={s.logo}>Les maximes de Maxime</h1>
           <span style={s.total}>{questions.length} questions</span>
         </header>
 
